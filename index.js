@@ -2,4 +2,5 @@
 async function hello() {
     return 'world';
 }
+export {};
 // const url = new URL('...');
